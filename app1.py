@@ -132,8 +132,8 @@ def delete_director(director_id):
     if not director:
         return jsonify({"message": "Director not found"}), 404
 
-    if db.session.query(Movie).filter(Movie.director_id == director_id).count():
-        return jsonify({"message": "Director has movies, cannot delete"}), 400
+    #if db.session.query(Movie).filter(Movie.director_id == director_id).count():
+    #    return jsonify({"message": "Director has movies, cannot delete"}), 400
     db.session.delete(director)
     db.session.commit()
     return jsonify({"message": "Director deleted successfully!"})
