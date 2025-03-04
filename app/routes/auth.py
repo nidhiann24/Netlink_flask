@@ -27,7 +27,7 @@ def signup_user():
 @auth_bp.route('/login', methods=['POST'])
 def login_user():
     auth = request.authorization  
-    user = Users.query.filter_by(name=auth.username).first()
+    user = db.session.query(Users).filter_by(name=auth.username).first()
     if user and check_password_hash(user.password, auth.password):
         token = jwt.encode(
             {'public_id': user.public_id, 'exp': datetime.datetime.utcnow() + datetime.timedelta(minutes=45)},
