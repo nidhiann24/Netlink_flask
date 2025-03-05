@@ -1,0 +1,84 @@
+2025-03-05 11:56:38,258 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 11:56:38,258 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 11:56:38,268 - INFO -  * Restarting with stat
+2025-03-05 11:56:42,307 - WARNING -  * Debugger is active!
+2025-03-05 11:56:42,338 - INFO -  * Debugger PIN: 109-909-321
+2025-03-05 11:57:22,249 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 11:57:22,250 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 11:57:22,272 - INFO -  * Restarting with stat
+2025-03-05 11:57:36,587 - WARNING -  * Debugger is active!
+2025-03-05 11:57:36,616 - INFO -  * Debugger PIN: 109-909-321
+2025-03-05 11:58:31,906 - INFO - 127.0.0.1 - - [05/Mar/2025 11:58:31] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2025-03-05 11:58:55,312 - INFO - 127.0.0.1 - - [05/Mar/2025 11:58:55] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-03-05 12:02:10,249 - INFO -  * Detected change in 'C:\\Users\\nalex\\newproj\\flask_dev\\app\\routes\\auth.py', reloading
+2025-03-05 12:02:10,495 - INFO -  * Restarting with stat
+2025-03-05 12:02:15,615 - WARNING -  * Debugger is active!
+2025-03-05 12:02:15,623 - INFO -  * Debugger PIN: 109-909-321
+2025-03-05 12:02:36,725 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 12:02:36,725 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 12:02:36,728 - INFO -  * Restarting with stat
+2025-03-05 12:02:40,215 - WARNING -  * Debugger is active!
+2025-03-05 12:02:40,224 - INFO -  * Debugger PIN: 109-909-321
+2025-03-05 12:02:57,699 - INFO - 127.0.0.1 - - [05/Mar/2025 12:02:57] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2025-03-05 12:05:46,371 - INFO -  * Detected change in 'C:\\Users\\nalex\\newproj\\flask_dev\\app\\routes\\auth.py', reloading
+2025-03-05 12:05:46,528 - INFO -  * Restarting with stat
+2025-03-05 12:06:15,791 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 12:06:15,792 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 12:06:15,803 - INFO -  * Restarting with stat
+2025-03-05 12:06:19,744 - WARNING -  * Debugger is active!
+2025-03-05 12:06:19,780 - INFO -  * Debugger PIN: 109-909-321
+2025-03-05 12:06:22,063 - INFO - 127.0.0.1 - - [05/Mar/2025 12:06:22] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2025-03-05 12:07:40,341 - INFO -  * Detected change in 'C:\\Users\\nalex\\newproj\\flask_dev\\app\\__init__.py', reloading
+2025-03-05 12:07:40,501 - INFO -  * Restarting with stat
+2025-03-05 12:43:53,598 - WARNING -  * Debugger is active!
+2025-03-05 12:43:53,617 - INFO -  * Debugger PIN: 109-909-321
+2025-03-05 12:44:27,786 - INFO - 127.0.0.1 - - [05/Mar/2025 12:44:27] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2025-03-05 12:45:45,812 - INFO -  * Detected change in 'C:\\Users\\nalex\\newproj\\flask_dev\\app\\routes\\auth.py', reloading
+2025-03-05 12:45:49,762 - WARNING -  * Debugger is active!
+2025-03-05 12:45:49,771 - INFO -  * Debugger PIN: 109-909-321
+2025-03-05 12:45:59,911 - INFO - 127.0.0.1 - - [05/Mar/2025 12:45:59] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2025-03-05 12:54:35,933 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 12:54:35,934 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 12:54:35,939 - INFO -  * Restarting with stat
+2025-03-05 12:54:39,404 - WARNING -  * Debugger is active!
+2025-03-05 12:54:39,430 - INFO -  * Debugger PIN: 109-909-321
+2025-03-05 12:55:05,441 - INFO - 127.0.0.1 - - [05/Mar/2025 12:55:05] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2025-03-05 12:56:19,179 - INFO -  * Detected change in 'C:\\Users\\nalex\\newproj\\flask_dev\\app\\routes\\auth.py', reloading
+2025-03-05 12:56:20,879 - INFO -  * Restarting with stat
+2025-03-05 12:56:41,019 - WARNING -  * Debugger is active!
+2025-03-05 12:56:41,125 - INFO -  * Debugger PIN: 109-909-321
+2025-03-05 12:57:26,778 - INFO - Time: 2025-03-05 07:27:26.777838 | Method: POST | URL: http://127.0.0.1:5000/register | Request Data: {'name': 'admin', 'password': 'password123', 'admin': True} | Response Status: 400 | Response Data: {'error': 'User already exists'}
+2025-03-05 12:57:26,778 - INFO - 127.0.0.1 - - [05/Mar/2025 12:57:26] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+2025-03-05 12:57:42,954 - INFO - Time: 2025-03-05 07:27:42.954340 | Method: POST | URL: http://127.0.0.1:5000/login | Request Data: None | Response Status: 200 | Response Data: {'admin': True, 'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwdWJsaWNfaWQiOiI3MTY3ZTllOC0zNDJiLTRlZmItOTZiMS1hMjA2OTI5M2QwY2QiLCJleHAiOjE3NDExNjIzNjJ9.QsPNyAxjS5DyVbN6lWtCB0ZAspZ_GcObipRRniBvPVY'}
+2025-03-05 12:57:42,954 - INFO - 127.0.0.1 - - [05/Mar/2025 12:57:42] "POST /login HTTP/1.1" 200 -
+2025-03-05 12:58:07,867 - INFO - Time: 2025-03-05 07:28:07.867074 | Method: POST | URL: http://127.0.0.1:5000/Director | Request Data: {'name': 'Rohith Shetty'} | Response Status: 201 | Response Data: {'message': 'Director added successfully'}
+2025-03-05 12:58:07,868 - INFO - 127.0.0.1 - - [05/Mar/2025 12:58:07] "[35m[1mPOST /Director HTTP/1.1[0m" 201 -
+2025-03-05 12:58:22,314 - INFO - Time: 2025-03-05 07:28:22.313533 | Method: POST | URL: http://127.0.0.1:5000/Movie | Request Data: {'title': 'Chennai Express', 'director_id': 1} | Response Status: 201 | Response Data: {'message': 'Movie added successfully'}
+2025-03-05 12:58:22,318 - INFO - 127.0.0.1 - - [05/Mar/2025 12:58:22] "[35m[1mPOST /Movie HTTP/1.1[0m" 201 -
+2025-03-05 12:58:33,832 - INFO - Time: 2025-03-05 07:28:33.832234 | Method: GET | URL: http://127.0.0.1:5000/Director | Request Data: None | Response Status: 200 | Response Data: {'Directors': [{'id': 1, 'name': 'Rohith Shetty'}]}
+2025-03-05 12:58:33,832 - INFO - 127.0.0.1 - - [05/Mar/2025 12:58:33] "GET /Director HTTP/1.1" 200 -
+2025-03-05 12:58:44,111 - INFO - Time: 2025-03-05 07:28:44.111549 | Method: GET | URL: http://127.0.0.1:5000/Director/1 | Request Data: None | Response Status: 200 | Response Data: {'id': 1, 'name': 'Rohith Shetty'}
+2025-03-05 12:58:44,112 - INFO - 127.0.0.1 - - [05/Mar/2025 12:58:44] "GET /Director/1 HTTP/1.1" 200 -
+2025-03-05 12:58:55,018 - INFO - Time: 2025-03-05 07:28:55.018167 | Method: GET | URL: http://127.0.0.1:5000/Movie | Request Data: None | Response Status: 200 | Response Data: {'Movies': [{'director_id': 1, 'director_name': 'Rohith Shetty', 'id': 1, 'title': 'Chennai Express'}]}
+2025-03-05 12:58:55,018 - INFO - 127.0.0.1 - - [05/Mar/2025 12:58:55] "GET /Movie HTTP/1.1" 200 -
+2025-03-05 12:59:04,760 - INFO - Time: 2025-03-05 07:29:04.760120 | Method: GET | URL: http://127.0.0.1:5000/Movie/1 | Request Data: None | Response Status: 200 | Response Data: {'director_id': 1, 'director_name': 'Rohith Shetty', 'id': 1, 'title': 'Chennai Express'}
+2025-03-05 12:59:04,760 - INFO - 127.0.0.1 - - [05/Mar/2025 12:59:04] "GET /Movie/1 HTTP/1.1" 200 -
+2025-03-05 12:59:15,047 - INFO - Time: 2025-03-05 07:29:15.047199 | Method: GET | URL: http://127.0.0.1:5000/Director/1/Movies | Request Data: None | Response Status: 200 | Response Data: {'Movies': [{'director_id': 1, 'director_name': 'Rohith Shetty', 'id': 1, 'title': 'Chennai Express'}]}
+2025-03-05 12:59:15,047 - INFO - 127.0.0.1 - - [05/Mar/2025 12:59:15] "GET /Director/1/Movies HTTP/1.1" 200 -
+2025-03-05 12:59:28,013 - INFO - Time: 2025-03-05 07:29:28.013299 | Method: PUT | URL: http://127.0.0.1:5000/Director/9 | Request Data: {'name': 'Nolan'} | Response Status: 404 | Response Data: {'message': 'Director not found'}
+2025-03-05 12:59:28,016 - INFO - 127.0.0.1 - - [05/Mar/2025 12:59:28] "[33mPUT /Director/9 HTTP/1.1[0m" 404 -
+2025-03-05 12:59:54,057 - INFO - Time: 2025-03-05 07:29:54.057087 | Method: PUT | URL: http://127.0.0.1:5000/Movie/1 | Request Data: {'title': 'Interstellar', 'director_id': 1} | Response Status: 200 | Response Data: {'Movie': {'director_id': 1, 'id': 1, 'title': 'Interstellar'}, 'message': 'Movie updated successfully!'}
+2025-03-05 12:59:54,059 - INFO - 127.0.0.1 - - [05/Mar/2025 12:59:54] "PUT /Movie/1 HTTP/1.1" 200 -
+2025-03-05 13:00:08,209 - INFO - Time: 2025-03-05 07:30:08.208347 | Method: DELETE | URL: http://127.0.0.1:5000/Director/1 | Request Data: None | Response Status: 400 | Response Data: {'message': 'Director has movies, both director and movie deleted'}
+2025-03-05 13:00:08,209 - INFO - 127.0.0.1 - - [05/Mar/2025 13:00:08] "[31m[1mDELETE /Director/1 HTTP/1.1[0m" 400 -
+2025-03-05 13:00:17,812 - INFO - Time: 2025-03-05 07:30:17.812668 | Method: DELETE | URL: http://127.0.0.1:5000/Movie/1 | Request Data: None | Response Status: 404 | Response Data: {'message': 'Movie not found'}
+2025-03-05 13:00:17,813 - INFO - 127.0.0.1 - - [05/Mar/2025 13:00:17] "[33mDELETE /Movie/1 HTTP/1.1[0m" 404 -
+2025-03-05 13:00:27,026 - INFO - Time: 2025-03-05 07:30:27.025367 | Method: DELETE | URL: http://127.0.0.1:5000/Director/3/Movies | Request Data: None | Response Status: 401 | Response Data: {'message': 'Token is invalid'}
+2025-03-05 13:00:27,027 - INFO - 127.0.0.1 - - [05/Mar/2025 13:00:27] "[31m[1mDELETE /Director/3/Movies HTTP/1.1[0m" 401 -
+2025-03-05 13:00:35,006 - INFO - Time: 2025-03-05 07:30:35.005889 | Method: DELETE | URL: http://127.0.0.1:5000/Director/3/Movies | Request Data: None | Response Status: 404 | Response Data: {'message': 'Director not found'}
+2025-03-05 13:00:35,006 - INFO - 127.0.0.1 - - [05/Mar/2025 13:00:35] "[33mDELETE /Director/3/Movies HTTP/1.1[0m" 404 -
